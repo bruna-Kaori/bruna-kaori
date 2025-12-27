@@ -12,9 +12,10 @@ Gosto de transformar problemas em soluções computacionais, aplicando conceitos
 ## 📊 GitHub Stats
 <div align="center">
 
-![Bruna GitHub Stats](https://github-readme-stats.vercel.app/api?username=bruna-Kaori&show_icons=true&theme=tokyonight&hide_border=true)
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bruna-Kaori&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bruna-kaori&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bruna-kaori&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
+
 
 </div>
 

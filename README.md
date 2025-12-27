@@ -1,23 +1,16 @@
 # Bruna Kaori Samesima
 
-
-
 ## Sobre mim
 Sou estudante da **Universidade Federal do ABC (UFABC)**, cursando **Bacharelado em Ciência e Tecnologia (BCT)** e **Bacharelado em Ciência da Computação (BCC)**.  
 Tenho interesse em desenvolvimento de software, com foco em **back-end**, **banco de dados**, **engenharia de software** e **sistemas distribuídos**.
 Gosto de transformar problemas em soluções computacionais, aplicando conceitos teóricos em projetos práticos e buscando constantemente aprender novas tecnologias e boas práticas.
 
-
+## 📊 GitHub Stats
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=bruna-kaori&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img src="https://streak-stats.demolab.com?user=bruna-kaori&theme=tokyonight&hide_border=true" />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bruna-Kaori)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
-
-
-
 
 
 ## Tecnologias & Linguagens

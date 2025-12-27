@@ -5,15 +5,6 @@ Sou estudante da **Universidade Federal do ABC (UFABC)**, cursando **Bacharelado
 Tenho interesse em desenvolvimento de software, com foco em **back-end**, **banco de dados**, **engenharia de software** e **sistemas distribuídos**.
 Gosto de transformar problemas em soluções computacionais, aplicando conceitos teóricos em projetos práticos e buscando constantemente aprender novas tecnologias e boas práticas.
 
-<div align="center">
-
-![Bruna GitHub Stats](https://github-readme-stats.vercel.app/api?username=bruna-Kaori&show_icons=true&theme=tokyonight&hide_border=true)
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bruna-Kaori&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
-## Tecnologias & Linguagens
 
 ### Linguagens de Programação
 <div align="left">

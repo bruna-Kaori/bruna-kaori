@@ -1,8 +1,6 @@
 # 👩‍💻 Bruna Kaori Samesima
 
-🎓 Estudante de Ciência da Computação | 💻 Desenvolvimento de Software | 🌐 Sistemas Distribuídos  
 
----
 
 ## 👋 Sobre mim
 Sou estudante da **Universidade Federal do ABC (UFABC)**, cursando **Bacharelado em Ciência e Tecnologia (BCT)** e **Bacharelado em Ciência da Computação (BCC)**.  
@@ -10,20 +8,17 @@ Tenho interesse em desenvolvimento de software, com foco em **back-end**, **banc
 
 Gosto de transformar problemas em soluções computacionais, aplicando conceitos teóricos em projetos práticos e buscando constantemente aprender novas tecnologias e boas práticas.
 
----
 
 ## 📊 GitHub Stats
 <div align="center">
 
-![Bruna GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight&hide_border=true)
+![Bruna GitHub Stats](https://github-readme-stats.vercel.app/api?username=bruna-Kaori&show_icons=true&theme=tokyonight&hide_border=true)
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bruna-Kaori&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
-> 🔹 *Os gráficos mostram minha atividade e as linguagens mais utilizadas nos repositórios públicos.*
 
----
 
 ## 🛠️ Tecnologias & Linguagens
 
@@ -36,7 +31,6 @@ Gosto de transformar problemas em soluções computacionais, aplicando conceitos
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" height="40" alt="Scala"/>
 </div>
 
----
 
 ### 🗄️ Banco de Dados
 <div align="left">
@@ -44,7 +38,6 @@ Gosto de transformar problemas em soluções computacionais, aplicando conceitos
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL"/>
 </div>
 
----
 
 ### ⚙️ Ferramentas & Tecnologias
 <div align="left">
@@ -63,19 +56,6 @@ Gosto de transformar problemas em soluções computacionais, aplicando conceitos
 - Bacharelado em Ciência da Computação (BCC) – *Cursando*  
 - 📅 Ingresso: 2020 | 🎯 Previsão de conclusão: 2027  
 
-### Principais disciplinas
-- Inteligência Artificial  
-- Engenharia de Software  
-- Sistemas Operacionais  
-- Redes de Computadores  
-- Sistemas Distribuídos  
-- Computação Gráfica  
-- Otimização Linear  
-- Linguagens Formais e Autômatos  
-- Arquitetura de Computadores  
-- Probabilidade e Estatística  
-
----
 
 ## 📚 Atividades Acadêmicas
 - Projetos práticos de programação e modelagem de sistemas  
@@ -83,7 +63,6 @@ Gosto de transformar problemas em soluções computacionais, aplicando conceitos
 - Atividades acadêmicas, sociais e de extensão (120+ horas)  
 - Participação em eventos e palestras sobre tecnologia e inovação  
 
----
 
 ## 🌱 Atualmente
 - 🔭 Trabalhando em projetos acadêmicos em Java e Python  
@@ -91,11 +70,5 @@ Gosto de transformar problemas em soluções computacionais, aplicando conceitos
 - 👯 Interessada em colaborar em projetos acadêmicos e open source  
 - 💬 Pergunte-me sobre **Java, Grafos, Sistemas Distribuídos e Back-end**  
 
----
 
-## 📫 Vamos nos conectar!
-- 💼 LinkedIn: *(adicione aqui)*  
-- 📧 Email: *(adicione aqui)*  
-
-Sinta-se à vontade para explorar meus repositórios 🚀
 

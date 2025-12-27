@@ -5,13 +5,13 @@ Sou estudante da **Universidade Federal do ABC (UFABC)**, cursando **Bacharelado
 Tenho interesse em desenvolvimento de software, com foco em **back-end**, **banco de dados**, **engenharia de software** e **sistemas distribuídos**.
 Gosto de transformar problemas em soluções computacionais, aplicando conceitos teóricos em projetos práticos e buscando constantemente aprender novas tecnologias e boas práticas.
 
-## 📊 GitHub Stats
 <div align="center">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bruna-Kaori)](https://github.com/anuraghazra/github-readme-stats)
+![Bruna GitHub Stats](https://github-readme-stats.vercel.app/api?username=bruna-Kaori&show_icons=true&theme=tokyonight&hide_border=true)
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bruna-Kaori&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
-
 
 ## Tecnologias & Linguagens
 

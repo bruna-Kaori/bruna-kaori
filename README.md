@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-<!--
-**bruna-Kaori/bruna-kaori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 # 👩‍💻 Bruna Kaori Samesima
 

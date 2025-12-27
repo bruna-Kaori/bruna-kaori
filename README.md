@@ -1,6 +1,3 @@
-## Hi there 👋
-
-
 # 👩‍💻 Bruna Kaori Samesima
 
 🎓 Estudante de Ciência da Computação | 💻 Desenvolvimento de Software | 🌐 Sistemas Distribuídos
@@ -70,18 +67,8 @@ Gosto de transformar problemas em soluções computacionais, aplicando conceitos
 
 ---
 
-## 🎯 Objetivo
-Busco uma **oportunidade de estágio em Desenvolvimento de Software ou Tecnologia da Informação**, onde eu possa aplicar e expandir meus conhecimentos técnicos, colaborar com a equipe e crescer profissionalmente.
 
----
-
-## 🌎 Idiomas
-- **Português:** Nativo  
-- **Inglês:** Intermediário (leitura e escrita técnica)  
-
----
-
-📫 **Vamos nos conectar!**  
+ **Vamos nos conectar!**  
 Sinta-se à vontade para explorar meus repositórios e entrar em contato.
 
 

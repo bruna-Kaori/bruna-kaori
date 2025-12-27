@@ -1,13 +1,59 @@
 # 👩‍💻 Bruna Kaori Samesima
 
-🎓 Estudante de Ciência da Computação | 💻 Desenvolvimento de Software | 🌐 Sistemas Distribuídos
+🎓 Estudante de Ciência da Computação | 💻 Desenvolvimento de Software | 🌐 Sistemas Distribuídos  
 
 ---
 
 ## 👋 Sobre mim
-Sou estudante da **Universidade Federal do ABC (UFABC)**, cursando **Bacharelado em Ciência e Tecnologia (BCT)** e **Bacharelado em Ciência da Computação (BCC)**. Tenho interesse em desenvolvimento de software e tecnologia, com foco em **back-end**, **banco de dados**, **engenharia de software** e **sistemas distribuídos**.
+Sou estudante da **Universidade Federal do ABC (UFABC)**, cursando **Bacharelado em Ciência e Tecnologia (BCT)** e **Bacharelado em Ciência da Computação (BCC)**.  
+Tenho interesse em desenvolvimento de software, com foco em **back-end**, **banco de dados**, **engenharia de software** e **sistemas distribuídos**.
 
-Gosto de transformar problemas em soluções computacionais, aplicando conceitos teóricos em projetos práticos, sempre buscando aprender novas tecnologias e boas práticas de desenvolvimento.
+Gosto de transformar problemas em soluções computacionais, aplicando conceitos teóricos em projetos práticos e buscando constantemente aprender novas tecnologias e boas práticas.
+
+---
+
+## 📊 GitHub Stats
+<div align="center">
+
+![Bruna GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight&hide_border=true)
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+> 🔹 *Os gráficos mostram minha atividade e as linguagens mais utilizadas nos repositórios públicos.*
+
+---
+
+## 🛠️ Tecnologias & Linguagens
+
+### 💻 Linguagens de Programação
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" height="40" alt="Scala"/>
+</div>
+
+---
+
+### 🗄️ Banco de Dados
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL"/>
+</div>
+
+---
+
+### ⚙️ Ferramentas & Tecnologias
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="40" alt="Eclipse"/>
+</div>
 
 ---
 
@@ -31,55 +77,25 @@ Gosto de transformar problemas em soluções computacionais, aplicando conceitos
 
 ---
 
-## 🛠️ Conhecimentos Técnicos
-
-### Linguagens de Programação
-- Java  
-- Python  
-- C  
-- C++  
-- Scala  
-
-### Banco de Dados
-- MySQL  
-- PostgreSQL  
-
-### Ferramentas e Tecnologias
-- Git & GitHub  
-- Linux  
-- VS Code  
-- Eclipse  
-
-### Áreas de Interesse
-- Banco de Dados  
-- Desenvolvimento Back-end  
-- Engenharia de Software  
-- Sistemas Distribuídos  
-- Redes de Computadores  
+## 📚 Atividades Acadêmicas
+- Projetos práticos de programação e modelagem de sistemas  
+- Desenvolvimento de algoritmos e pequenos sistemas computacionais  
+- Atividades acadêmicas, sociais e de extensão (120+ horas)  
+- Participação em eventos e palestras sobre tecnologia e inovação  
 
 ---
 
-## 📚 Atividades Acadêmicas e Complementares
-- Participação em projetos práticos de programação e modelagem de sistemas em disciplinas de Computação  
-- Desenvolvimento de pequenos sistemas e algoritmos com foco em resolução de problemas computacionais  
-- Envolvimento em atividades acadêmicas, sociais e de extensão na UFABC (mais de 120 horas)  
-- Participação em eventos e palestras sobre tecnologia, inovação e mercado de trabalho  
+## 🌱 Atualmente
+- 🔭 Trabalhando em projetos acadêmicos em Java e Python  
+- 🌱 Aprofundando conhecimentos em **Sistemas Distribuídos** e **Banco de Dados**  
+- 👯 Interessada em colaborar em projetos acadêmicos e open source  
+- 💬 Pergunte-me sobre **Java, Grafos, Sistemas Distribuídos e Back-end**  
 
 ---
 
+## 📫 Vamos nos conectar!
+- 💼 LinkedIn: *(adicione aqui)*  
+- 📧 Email: *(adicione aqui)*  
 
- **Vamos nos conectar!**  
-Sinta-se à vontade para explorar meus repositórios e entrar em contato.
+Sinta-se à vontade para explorar meus repositórios 🚀
 
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
